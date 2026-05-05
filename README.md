@@ -59,6 +59,12 @@ This project focuses on analyzing sales data to evaluate business performance an
 
 ---
 
+## 📊 Sample Output
+
+![Sales Chart](Screenshot 2026-05-05195830.png)
+
+---
+
 ## 🚀 Conclusion
 
 This project demonstrates how data analysis techniques can be used to extract meaningful insights from raw sales data and improve overall business performance.
