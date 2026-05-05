@@ -33,7 +33,8 @@ This project focuses on analyzing sales data to evaluate business performance an
 ## 📈 Key Insights
 - Identified patterns in sales performance  
 - Highlighted important factors influencing revenue  
-- Observed trends that can improve business strategies  
+- Observed trends that can improve business strategies
+- Improved understanding of sales patterns through data-driven analysis 
 
 ---
 
